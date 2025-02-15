@@ -1,4 +1,4 @@
-# AS1
+# Lab1
 
 ---
 tags:
@@ -9,15 +9,11 @@ tags:
 Due_Date: 2025-02-17
 ---
 
-- [Vscode Workspace](C:\Users\bernard\OneDrive\Documents\vscode_workspaces\BDDM.code-workspace)
-
----
-
 ## Lab Assignment 1
 
 - [Lab Assignment 1 on Data Cleaning, Preprocessing and Transformation, and Similarity Measure, Similarity Matrix](https://eecs.csuohio.edu/~sschung/DSA460/Lab1_DSA460_CIS492_593_DataPreprocessing_SimilarityMeasure_Matrix.pdf)  
 
----
+
 
 ### Input Data File for Lab1
 
@@ -25,7 +21,7 @@ Due_Date: 2025-02-17
 - [Lab1 Small Data Set (Mouse Serum Data) for Null Replacement (csv)](https://eecs.csuohio.edu/~sschung/DSA460/Lab1_NullHandling_ExampleDataSetFormat_MTBLS547_OneSheet.csv)   
 - [TA Instruction on How to Generate Lab1 Report](https://eecs.csuohio.edu/~sschung/DSA460/TALabReportInstructions.pdf)  
 
----
+
 
 ## Part 1 and 2
   
@@ -40,7 +36,7 @@ For each selected feature, identify ALL the required data preprocessing methods 
 >If it is transformed as Categorical, One-hot-encoding is a correct transformation.
 >However, if it is Ordinal, then one hot encoding is not a correct transformation for this column.
 
----
+
 
 ## Part 3
   
@@ -49,7 +45,7 @@ For each selected feature, identify ALL the required data preprocessing methods 
 >You have to write Scripts/Programs to Compute each Similarity Measure.  
 >If you use the built-in lib to build a Similarity Measures, which is one line of code, you will get 0 for the part.  
 
----
+
 
 ## Suggested Platforms to Use for Lab1
   
