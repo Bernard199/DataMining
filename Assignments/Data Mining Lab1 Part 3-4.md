@@ -38,7 +38,7 @@ For each selected feature, identify ALL the required data preprocessing methods 
 
 
 
-## Part 3
+## Part 3 and 4
   
 >**NOTE !!!**  
 >You Are NOT Supposed to Use any Python Libs to Calculate Similarity Measures in Part 3 of Lab 1.  
